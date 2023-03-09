@@ -1,4 +1,5 @@
 # Veronika Pavlova
+![Avatar](/rsschool-cv/Avatar.jpg) 
 ## Contact information:
 * _Address:_ Samara, Russia
 *  _Phone:_ +7 -927-618-94-39
